@@ -16,11 +16,11 @@ const Privacy: React.FC = () => {
             and share this information. Your access to and use of the Service
             are available for your use only on the condition that you agree to
             the Terms of Service available under the following address:{" "}
-            <a href="https://www.herochat.us/terms">
-              https://www.herochat.us/terms
+            <a href="https://www.chathero.us/terms">
+              https://www.chathero.us/terms
             </a>{" "}
             (“Terms of Service”) which include the terms of the Privacy Policy
-            set forth below. Herochat.us (“Company”) operates the Service. We
+            set forth below. Chathero.us (“Company”) operates the Service. We
             use your data to provide and improve Service. By using Service, you
             agree to the collection and use of information in accordance with
             this policy. Unless otherwise defined in this Privacy Policy, the
@@ -29,7 +29,7 @@ const Privacy: React.FC = () => {
           </p>
           <h5>2. Definitions</h5>
           <p>
-            <b>API</b> means Herochat application programming interface to be
+            <b>API</b> means Chathero application programming interface to be
             integrated with the User’s software.
           </p>
           <p>
@@ -75,14 +75,14 @@ const Privacy: React.FC = () => {
           </p>
           <p>
             <b>Website</b> means web pages located at{" "}
-            <a href="https://herochat.us">herochat.us</a>.
+            <a href="https://chathero.us">chathero.us</a>.
           </p>
           <p>
-            <b>Widget</b> means a Herochat widget that may be implemented to the
+            <b>Widget</b> means a Chathero widget that may be implemented to the
             User’s website.
           </p>
           <h5>3. The Data Controller</h5>
-          <p>The controller of your Personal Data is: Herochat.us.</p>
+          <p>The controller of your Personal Data is: Chathero.us.</p>
           <h5>4. Information Collection and Use</h5>
           <p>
             We collect several different types of information for various
@@ -152,7 +152,7 @@ const Privacy: React.FC = () => {
           </ol>
           <h5>6. Use of Data</h5>
           <p>
-            Herochat.us uses the collected Personal Data for various purposes:
+            Chathero.us uses the collected Personal Data for various purposes:
           </p>
           <ol type="a">
             <li>
@@ -352,7 +352,7 @@ const Privacy: React.FC = () => {
           </ol>
           <p>
             If you wish to execute any of the above-mentioned rights, please
-            email us at support@herochat.us. Please note that we may ask you to
+            email us at support@chathero.us. Please note that we may ask you to
             verify your identity before responding to such requests. Please
             note, we may not able to provide Service without some necessary
             data.
@@ -390,7 +390,7 @@ const Privacy: React.FC = () => {
             </li>
             <li>
               users are able to change their personal information by emailing us
-              at support@herochat.us.
+              at support@chathero.us.
             </li>
           </ol>
           <p>Our Policy on “Do Not Track” Signals:</p>
@@ -513,7 +513,7 @@ const Privacy: React.FC = () => {
           <h5>19. Contact Us</h5>
           <p>
             If you have any questions about this Privacy Policy, please contact
-            us at support@herochat.us.
+            us at support@chathero.us.
           </p>
           <h5>20. Privacy Policy Addendum</h5>
           <p>

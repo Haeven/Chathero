@@ -13,12 +13,12 @@ const VideoSection: React.FC<VideoSectionProps> = ({ }) => {
   <div className="relative overflow-hidden rounded">
     <video className="h-auto w-full" muted controls loop>
       <source
-        src="https://backend.herochat.us/storage/v1/object/public/herochat/studio-ai-landing.mp4"
+        src="https://backend.chathero.us/storage/v1/object/public/chathero/studio-ai-landing.mp4"
       />
     </video>
     <div className="absolute inset-0 flex flex-col items-center justify-center">
       {/* <Image
-        alt="Herochat Studio AI Thumbnail"
+        alt="Chathero Studio AI Thumbnail"
         loading="lazy"
         width="2552"
         height="1493"

@@ -17,7 +17,7 @@ const UseCaseSection: React.FC<UseCaseSectionProps> = ({
           USECASES
         </h4>
         <p className="text-xl font-medium text-white">
-          Here are some of the ways you can use Herochat.
+          Here are some of the ways you can use Chathero.
         </p>
       </div>
       <div className="grid grid-cols-1 gap-16 lg:grid-cols-2">

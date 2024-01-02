@@ -159,7 +159,7 @@ const FeatureSection: React.FC<FeatureSectionProps> = ({}) => {
             </svg>
             <h5 className="pt-1 text-lg font-medium">Whitelabel</h5>
             <p className="text-sm font-normal text-zinc-700">
-              Remove Herochat branding and use a custom domain.
+              Remove Chathero branding and use a custom domain.
             </p>
           </div>
           <div className="flex flex-col items-start gap-1 md:max-w-[14rem]">

@@ -24,7 +24,7 @@ const HeroSection: React.FC<Props> = (props) => {
             <div className="flex flex-col gap-10 md:flex-row md:items-center md:gap-6">
               <div className="flex w-fit flex-col place-items-center items-center justify-center">
                 <a
-                  className="group/cta flex flex-row gap-3 rounded-xl bg-herochat-gradient px-5 py-2 text-base font-semibold leading-8 text-white shadow-sm transition-all duration-700 ease-in-out hover:animate-gradient hover:shadow-sm hover:saturate-150 focus-visible:animate-gradient focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
+                  className="group/cta flex flex-row gap-3 rounded-xl bg-chathero-gradient px-5 py-2 text-base font-semibold leading-8 text-white shadow-sm transition-all duration-700 ease-in-out hover:animate-gradient hover:shadow-sm hover:saturate-150 focus-visible:animate-gradient focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"
                   href="/create-new-chatbot"
                 >
                   Build your Chatbot
@@ -118,7 +118,7 @@ const HeroSection: React.FC<Props> = (props) => {
                       <div className="flex flex-col items-start gap-4 break-words">
                         <div className="prose w-full break-words text-left text-inherit dark:prose-invert text-xs">
                           <p>
-                            <a href="https://www.herochat.us/" target="_blank">
+                            <a href="https://www.chathero.us/" target="_blank">
                               Here&apos;s a link
                             </a>
                             to our portfolio showcasing various projects
@@ -196,7 +196,7 @@ const HeroSection: React.FC<Props> = (props) => {
                 <header className="flex flex-row items-center justify-between p-5">
                   <div className="flex flex-row items-center gap-1">
                     {/* <Image
-                        alt="Herochat"
+                        alt="Chathero"
                         loading="lazy"
                         width="25"
                         height="25"
@@ -204,10 +204,10 @@ const HeroSection: React.FC<Props> = (props) => {
                         data-nimg="1"
                         className="aspect-square rounded-lg"
                         style={{color: 'transparent'}}
-                        src="/images/herochat-logo.svg"
+                        src="/images/chathero-logo.svg"
                         /> */}
                     <span className="text-sm font-bold text-zinc-800">
-                      Herochat
+                      Chathero
                     </span>
                   </div>
                   <div className="flex flex-row items-center gap-1">

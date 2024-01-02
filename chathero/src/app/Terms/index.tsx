@@ -12,8 +12,8 @@ const Privacy: React.FC = () => {
             These Terms of Service (“Terms”, “Terms of Service”) are used to
             determine the rules of the Service and to clarify the legal
             relationship between the entity using the Service and the Company.
-            Herochat.us. (“Company”) operates web pages located at{" "}
-            <a href="https://herochat.us">herochat.us</a> („Website”) and offers
+            Chathero.us. (“Company”) operates web pages located at{" "}
+            <a href="https://chathero.us">chathero.us</a> („Website”) and offers
             Service (as defined below in Section 2). The Service is dedicated to
             the professional entities to help them to conduct their business.
             Using the Website and/or the Service in any manner, also by going
@@ -26,7 +26,7 @@ const Privacy: React.FC = () => {
             User does not agree to apply under the provisions of the Terms,
             he/she should not use the Service. In such a case however, the User
             may contact the Company by emailing at{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a> so the
+            <a href="mailto:support@chathero.us">support@chathero.us</a> so the
             Company can try to find a solution.
           </p>
           <h5>2. Definitions</h5>
@@ -44,11 +44,11 @@ const Privacy: React.FC = () => {
             the price for using the Service.
           </p>
           <p>
-            <b>API</b> – means Herochat application programming interface to be
+            <b>API</b> – means Chathero application programming interface to be
             integrated with the User’s software.
           </p>
           <p>
-            <b>Company</b> – means Herochat.us,
+            <b>Company</b> – means Chathero.us,
           </p>
           <p>
             <b>Content</b> – means the contents such as texts, pictures and
@@ -100,8 +100,8 @@ const Privacy: React.FC = () => {
             <b>Privacy Policy</b> – means the Privacy Policy, which defines the
             rules of personal data processing by the Company, available under
             the following internet address:{" "}
-            <a href="https://www.herochat.us/privacy">
-              https://www.herochat.us/privacy
+            <a href="https://www.chathero.us/privacy">
+              https://www.chathero.us/privacy
             </a>
             .
           </p>
@@ -113,8 +113,8 @@ const Privacy: React.FC = () => {
           <p>
             <b>Terms</b> – means these terms of service available under the
             following address:{" "}
-            <a href="https://www.herochat.us/terms">
-              https://www.herochat.us/terms
+            <a href="https://www.chathero.us/terms">
+              https://www.chathero.us/terms
             </a>
             .
           </p>
@@ -123,10 +123,10 @@ const Privacy: React.FC = () => {
           </p>
           <p>
             <b>Website</b> – means web pages located at{" "}
-            <a href="https://herochat.us">herochat.us</a>.
+            <a href="https://chathero.us">chathero.us</a>.
           </p>
           <p>
-            <b>Widget</b> – means a Herochat widget that may be implemented to
+            <b>Widget</b> – means a Chathero widget that may be implemented to
             the User’s website.
           </p>
           <p>
@@ -237,7 +237,7 @@ const Privacy: React.FC = () => {
             exact same conditions unless you cancel it or the Company cancels
             it. You may cancel your Subscription renewal either through your
             Account or by contacting Company’s customer support team at{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a>. A
+            <a href="mailto:support@chathero.us">support@chathero.us</a>. A
             valid payment method, including credit or debit card, Apple Pay or
             Google Pay, is required to process the payment for your
             subscription. You shall provide the Company with accurate and
@@ -464,7 +464,7 @@ const Privacy: React.FC = () => {
             one, and you believe that the copyrighted work has been copied in a
             way that constitutes copyright Infringement, please submit your
             claim via email to{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a>, with
+            <a href="mailto:support@chathero.us">support@chathero.us</a>, with
             the subject line: “Copyright Infringement” and include in your claim
             a detailed description of the alleged Infringement as detailed
             below, under “DMCA Notice and Procedure for Copyright Infringement
@@ -512,7 +512,7 @@ const Privacy: React.FC = () => {
           </ul>
           <p>
             You can contact our Copyright Agent via email at{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a>.
+            <a href="mailto:support@chathero.us">support@chathero.us</a>.
           </p>
           <h5>16. Error Reporting and Feedback</h5>
           <p>
@@ -524,7 +524,7 @@ const Privacy: React.FC = () => {
           </p>
           <p>
             You may provide us directly at{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a> with
+            <a href="mailto:support@chathero.us">support@chathero.us</a> with
             information and feedback concerning errors, suggestions for
             improvements, ideas, problems, complaints, and other matters related
             to our Service (“Feedback”). You acknowledge and agree that: (i) you
@@ -734,7 +734,7 @@ const Privacy: React.FC = () => {
           <h5>29. Contact Us</h5>
           <p>
             Any time you wish to contact the Company, please send email at:{" "}
-            <a href="mailto:support@herochat.us">support@herochat.us</a>.
+            <a href="mailto:support@chathero.us">support@chathero.us</a>.
           </p>
         </div>
       </div>
